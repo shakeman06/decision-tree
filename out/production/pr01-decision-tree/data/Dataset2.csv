@@ -1,0 +1,9 @@
+Appetite,Location,Time,Extra Swipes,Dining Hall
+Hungry,North,Morning,Yes,Main
+Hungry,North,Midday,No,Main
+Hungry,South,Evening,No,Other
+Satiated,North,Morning,Yes,Other
+Satiated,South,Evening,No,Other
+Starving,North,Morning,No,Main
+Starving,South,Midday,No,Main
+Starving,South,Evening,Yes,Main

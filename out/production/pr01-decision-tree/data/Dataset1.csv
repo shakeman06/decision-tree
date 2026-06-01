@@ -1,0 +1,8 @@
+Weather,Friends,Game,Homework,Outcome
+Sunny,2,Soccer,Complete,Accept
+Sunny,1,Hopscotch,Incomplete,Accept
+Sunny,0,Soccer,Complete,Reject
+Rainy,2,Football,Complete,Accept
+Rainy,1,Soccer,Incomplete,Reject
+Cloudy,0,Hopscotch,Complete,Accept
+Cloudy,2,Football,Incomplete,Accept
